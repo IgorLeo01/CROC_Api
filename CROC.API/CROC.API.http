@@ -1,0 +1,6 @@
+@CROC.API_HostAddress = http://localhost:5204
+
+GET {{CROC.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

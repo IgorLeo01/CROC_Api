@@ -1,0 +1,12 @@
+D:\Projects\CROC_Api\CROC_Api\CROC.Application\bin\Debug\net9.0\CROC.Application.deps.json
+D:\Projects\CROC_Api\CROC_Api\CROC.Application\bin\Debug\net9.0\CROC.Application.dll
+D:\Projects\CROC_Api\CROC_Api\CROC.Application\bin\Debug\net9.0\CROC.Application.pdb
+D:\Projects\CROC_Api\CROC_Api\CROC.Application\obj\Debug\net9.0\CROC.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\CROC_Api\CROC_Api\CROC.Application\obj\Debug\net9.0\CROC.Application.AssemblyInfoInputs.cache
+D:\Projects\CROC_Api\CROC_Api\CROC.Application\obj\Debug\net9.0\CROC.Application.AssemblyInfo.cs
+D:\Projects\CROC_Api\CROC_Api\CROC.Application\obj\Debug\net9.0\CROC.Application.csproj.CoreCompileInputs.cache
+D:\Projects\CROC_Api\CROC_Api\CROC.Application\obj\Debug\net9.0\CROC.Application.sourcelink.json
+D:\Projects\CROC_Api\CROC_Api\CROC.Application\obj\Debug\net9.0\CROC.Application.dll
+D:\Projects\CROC_Api\CROC_Api\CROC.Application\obj\Debug\net9.0\refint\CROC.Application.dll
+D:\Projects\CROC_Api\CROC_Api\CROC.Application\obj\Debug\net9.0\CROC.Application.pdb
+D:\Projects\CROC_Api\CROC_Api\CROC.Application\obj\Debug\net9.0\ref\CROC.Application.dll

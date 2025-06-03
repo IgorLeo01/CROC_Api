@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "osTwhrtnFzo=",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\CROC_Api\\CROC_Api\\CROC.API\\CROC.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\euigo\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.5\\microsoft.aspnetcore.openapi.9.0.5.nupkg.sha512",
+    "C:\\Users\\euigo\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
